@@ -222,7 +222,7 @@ Full interactive documentation available at **http://localhost:8000/docs**
 
 | Member | Role | Responsibilities |
 |---|---|---|
-| Jeany | Frontend / UX | React.js, Tailwind CSS, UI components, PDF integration |
+| yohni | Frontend / UX | React.js, Tailwind CSS, UI components, PDF integration |
 | Yohni | Backend / Cyber | FastAPI, PostgreSQL, Scanner Engine, JWT auth |
 
 ---
@@ -233,4 +233,4 @@ This project was built as a portfolio project for educational purposes.
 
 ---
 
-*Built with by Jeany & Yohni — SecureAudit 2026*
+*Built with by  Yohni — SecureAudit 2026*
